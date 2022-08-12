@@ -1,5 +1,8 @@
 {
-  "name": "react-bricks",
+  "name": "@nicolascouvrat/react-bricks",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/nicolascouvrat"
+  },
   "version": "0.0.1",
   "description": "react custom component library",
   "main": "dist/cjs/index.js",
