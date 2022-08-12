@@ -6,7 +6,12 @@ export interface ButtonProps {
 }
 
 const Button = (props: ButtonProps) => {
-  return <button>{props.label}</button>;
+  return (
+    <>
+      <div>bonjour</div>
+      <p className="text-primary">primary</p>
+    </>
+  );
 };
 
 export default Button;
