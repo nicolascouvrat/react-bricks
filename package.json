@@ -3,7 +3,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/nicolascouvrat"
   },
-  "version": "0.0.8",
+  "version": "0.1.0",
   "description": "react custom component library",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
