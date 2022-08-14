@@ -1,5 +1,5 @@
 import React from "react";
-import TableRow from "./TableRow";
+import TableRow from "components/Table/TableRow";
 import "./Table.scss";
 
 export interface TableProps {
